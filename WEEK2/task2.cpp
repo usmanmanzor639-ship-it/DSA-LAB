@@ -1,4 +1,7 @@
-//2025S-CS-48
+// MUHAMMAD USMAN
+// DSALA-2025S-CS-48
+// LAB 01
+// 2D Array Spiral Fill
 #include<iostream>
 using namespace std;
 int main(){
