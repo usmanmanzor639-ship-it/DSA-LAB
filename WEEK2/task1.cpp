@@ -1,7 +1,7 @@
 // MUHAMMAD USMAN
 // DSALA-2025S-CS-48
 // LAB 01
-// 2D Array Butterfly
+// Butterfly Pattern
 #include<iostream>
 using namespace std;
 
